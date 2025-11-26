@@ -25,7 +25,12 @@
   "homepage": "https://github.com/Spankatorium/image-uploader#readme",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.13",
+    "@types/express": "^5.0.5",
     "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
